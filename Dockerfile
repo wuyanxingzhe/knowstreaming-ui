@@ -1,1 +1,1 @@
-FROM knowstreaming/knowstreaming-ui:0.7.0
+FROM knowstreaming/knowstreaming-ui:0.8.0
